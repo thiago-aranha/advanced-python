@@ -1,0 +1,15 @@
+INFO:root:This is an info-level log message
+WARNING:root:This is a warning-level message
+2023-09-06 18:49:33,734: INFO: <module> Line:(lineno)d This is an info-level log message
+2023-09-06 18:49:33,734: WARNING: <module> Line:(lineno)d This is a warning-level message
+2023-09-06 18:50:18,016: INFO: <module> Line:16 This is an info-level log message
+2023-09-06 18:50:18,016: WARNING: <module> Line:17 This is a warning-level message
+09/06/2023 06:53:49 PM: INFO: <module> Line:19 This is an info-level log message
+09/06/2023 06:53:49 PM: WARNING: <module> Line:20 This is a warning-level message
+09/06/2023 06:53:49 PM: DEBUG: another_function Line:7 This is a DEBUG message
+09/06/2023 06:54:46 PM: INFO: <<module>> Line:19 This is an info-level log message
+09/06/2023 06:54:46 PM: WARNING: <<module>> Line:20 This is a warning-level message
+09/06/2023 06:54:46 PM: DEBUG: <another_function> Line:7 This is a DEBUG message
+thiago.aranha 09/06/2023 06:58:33 PM: INFO: <<module>> Line:20 This is an info-level log message
+thiago.aranha 09/06/2023 06:58:33 PM: WARNING: <<module>> Line:21 This is a warning-level message
+thiago.aranha 09/06/2023 06:58:33 PM: DEBUG: <another_function> Line:7 This is a DEBUG message
